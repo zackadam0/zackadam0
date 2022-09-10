@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**zackadam0/zackadam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Name is Zachary Adam
 
-Here are some ideas to get you started:
+## Information:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: I am currently a student at Raritan Valley Community College
+- :test_tube: My intended Major is Computer Science
+- :computer: I aspire to become a Full-Stack Web Developer
+- :video_game: I enjoy playing video games and would like to study Game Development as well
+
+## Languages/Tools:
+
+<img src=https://user-images.githubusercontent.com/99522830/189496112-fb228eda-19ed-4797-8105-c916f7227318.png width="40" height="40">
+
+
+
+
+
